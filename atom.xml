@@ -8,7 +8,14 @@
     <author>
       <name>lunlun</name>
     </author>
-    <updated>2021-11-27T10:31:56.983Z</updated>
+    <updated>2021-11-28T12:24:23.000Z</updated>
+    <entry>
+        <id>http://example.com/2021/11/28/novel/</id>
+        <title>小说</title>
+        <link rel="alternate" href="http://example.com/2021/11/28/novel/"/>
+        <content type="html"></content>
+        <updated>2021-11-28T12:24:23.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2021/11/27/hello-world/</id>
         <title>Hello World</title>

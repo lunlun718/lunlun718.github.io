@@ -9,9 +9,16 @@
           <name>lunlun</name>
         </author>
         <description>我爱学习，学习爱我</description>
-        <language>zh_CN</language>
-        <pubDate>Sat, 27 Nov 2021 18:31:56 +0800</pubDate>
-        <lastBuildDate>Sat, 27 Nov 2021 18:31:56 +0800</lastBuildDate>
+        <language>zh-CN</language>
+        <pubDate>Sun, 28 Nov 2021 20:24:23 +0800</pubDate>
+        <lastBuildDate>Sun, 28 Nov 2021 20:24:23 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/11/28/novel/</guid>
+            <title>小说</title>
+            <link>http://example.com/2021/11/28/novel/</link>
+            <pubDate>Sun, 28 Nov 2021 20:24:23 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2021/11/27/hello-world/</guid>
             <title>Hello World</title>
