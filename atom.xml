@@ -15,7 +15,7 @@
         <link rel="alternate" href="http://example.com/oj/oj/"/>
         <content type="html">&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;[&lt;strong&gt;1135&lt;/strong&gt;](# 考试成绩)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9&#34;&gt;&lt;strong&gt;1135&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;#%E8%BF%87%E7%BA%BF%E5%95%A6&#34;&gt;&lt;strong&gt;1136&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
