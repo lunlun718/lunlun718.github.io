@@ -7,6 +7,16 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/novel1/",
+            "url": "http://example.com/novel1/",
+            "title": "胭脂扣",
+            "date_published": "2021-11-29T05:55:45.000Z",
+            "content_html": "",
+            "tags": [
+                "小说"
+            ]
+        },
+        {
             "id": "http://example.com/oj/oj/",
             "url": "http://example.com/oj/oj/",
             "title": "oj2012",
@@ -15,14 +25,6 @@
             "tags": [
                 "OJ"
             ]
-        },
-        {
-            "id": "http://example.com/novel/",
-            "url": "http://example.com/novel/",
-            "title": "小说",
-            "date_published": "2021-11-28T12:24:23.000Z",
-            "content_html": "",
-            "tags": []
         },
         {
             "id": "http://example.com/hello-world/",

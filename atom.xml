@@ -8,7 +8,15 @@
     <author>
       <name>lunlun</name>
     </author>
-    <updated>2021-11-28T13:36:38.000Z</updated>
+    <updated>2021-11-29T05:55:45.000Z</updated>
+    <entry>
+        <id>http://example.com/novel1/</id>
+        <title>胭脂扣</title>
+        <link rel="alternate" href="http://example.com/novel1/"/>
+        <content type="html"></content>
+        <category term="小说" scheme="http://example.com/categories/novel/" />
+        <updated>2021-11-29T05:55:45.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/oj/oj/</id>
         <title>oj2012</title>
@@ -79,13 +87,6 @@ int main()
 </content>
         <category term="OJ" scheme="http://example.com/categories/oj/" />
         <updated>2021-11-28T13:36:38.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/novel/</id>
-        <title>小说</title>
-        <link rel="alternate" href="http://example.com/novel/"/>
-        <content type="html"></content>
-        <updated>2021-11-28T12:24:23.000Z</updated>
     </entry>
     <entry>
         <id>http://example.com/hello-world/</id>
