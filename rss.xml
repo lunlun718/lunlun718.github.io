@@ -16,6 +16,7 @@
             <guid isPermalink="true">http://example.com/oj/oj/</guid>
             <title>oj2012</title>
             <link>http://example.com/oj/oj/</link>
+            <category term="oj" scheme="http://example.com/categories/oj/" />
             <pubDate>Sun, 28 Nov 2021 21:36:38 +0800</pubDate>
             <description><![CDATA[ &lt;ol&gt;
 &lt;li&gt;
