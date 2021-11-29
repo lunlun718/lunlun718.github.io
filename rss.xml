@@ -13,9 +13,9 @@
         <pubDate>Mon, 29 Nov 2021 13:55:45 +0800</pubDate>
         <lastBuildDate>Mon, 29 Nov 2021 13:55:45 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/novel1/</guid>
+            <guid isPermalink="true">http://example.com/novel/novel1/</guid>
             <title>胭脂扣</title>
-            <link>http://example.com/novel1/</link>
+            <link>http://example.com/novel/novel1/</link>
             <category term="小说" scheme="http://example.com/categories/novel/" />
             <pubDate>Mon, 29 Nov 2021 13:55:45 +0800</pubDate>
             <description><![CDATA[  ]]></description>

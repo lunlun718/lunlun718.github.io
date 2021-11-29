@@ -7,8 +7,8 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/novel1/",
-            "url": "http://example.com/novel1/",
+            "id": "http://example.com/novel/novel1/",
+            "url": "http://example.com/novel/novel1/",
             "title": "胭脂扣",
             "date_published": "2021-11-29T05:55:45.000Z",
             "content_html": "",

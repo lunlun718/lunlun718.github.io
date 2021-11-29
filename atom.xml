@@ -10,9 +10,9 @@
     </author>
     <updated>2021-11-29T05:55:45.000Z</updated>
     <entry>
-        <id>http://example.com/novel1/</id>
+        <id>http://example.com/novel/novel1/</id>
         <title>胭脂扣</title>
-        <link rel="alternate" href="http://example.com/novel1/"/>
+        <link rel="alternate" href="http://example.com/novel/novel1/"/>
         <content type="html"></content>
         <category term="小说" scheme="http://example.com/categories/novel/" />
         <updated>2021-11-29T05:55:45.000Z</updated>
